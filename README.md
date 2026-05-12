@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # DevSecOps Banking Application
@@ -324,3 +325,6 @@ Happy Learning
 **TrainWithShubham**  
 
 </div>
+=======
+# Multi-tier-project
+>>>>>>> e2f814568fb95dca42c9129c2d7f5709eae58df9
