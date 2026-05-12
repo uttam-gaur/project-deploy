@@ -1,5 +1,8 @@
 # AI BANK APP
 A high-performance, containerized financial platform built with Spring Boot 3, Java 21, and integrated Contextual AI. This project implements a secure "DevSecOps Pipeline" using GitHub Actions.
+## Application Preview
+
+<img src="screenshots/1.png" width="800"/>
 ## Technology Stack
 Backend Framework: Java 21, Spring Boot 3.4.1
 
