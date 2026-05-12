@@ -12,6 +12,7 @@ AI Integration: Ollama (TinyLlama)
 DevOps Tooling: Docker, Docker Compose, GitHub Actions.
 
 ## Prerequisites
+->Your port number should be free 8080,3307,11434.
 -> Windows
 Install Git: `winget install --id Git.Git -e --source winget`  
 
@@ -28,10 +29,11 @@ Install Docker Desktop (includes Docker & Docker Compose): `brew install --cask 
 ## Clone the Repo git clone ` https://github.com/uttam-gaur/project-deploy.git ` in mac and windows in a repo
 
 > Make sure the Docker Desktop is Running ...
+
 > And in terminal change the directory to project repo
 > run the command `docker compose up -d`
 
-Open Search Engine , search `http://localhost:8080` 
+>Open Search Engine , search `http://localhost:8080` 
 
 
 
